@@ -4,8 +4,7 @@ export function taskFirst() {
   }
   
   export function getLast() {
-    const last = ' is okay';
-    return last;
+    return ' is okay';
   }
   
   export function taskNext() {
